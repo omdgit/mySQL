@@ -2,7 +2,9 @@
 title: "Readme"
 author: "omdgit"
 date: "March 16, 2015"
-output: html_document
+output:
+  html_document:
+    keep_md: yes
 ---
 
 This is Readme file with some basic R scripts for interacting with mySQL.  The scripts are from the Coursera course **Getting and Cleaning Data**. 
