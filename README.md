@@ -2,7 +2,7 @@
 omdgit  
 March 16, 2015  
 
-This is Readme file with some basic R scripts for interacting with mySQL.  The scripts are from the Coursera course **Getting and Cleaning Data**. 
+This is the Readme file with some basic R scripts for interacting with mySQL.  The scripts are from the Coursera course **Getting and Cleaning Data**. 
 
 
 ```r
